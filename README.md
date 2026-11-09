@@ -11,9 +11,9 @@
 
 | 분야 | 기술 |
 |---|---|
-| Backend | Java · Spring Boot · Spring Security · JPA · Node.js(Express) |
+| Backend | Java · Spring Boot · JPA · Node.js(Express) |
 | Database | PostgreSQL · MySQL |
-| Infra | Docker · GitHub Actions · Nginx · Proxmox |
+| Infra | Docker · GitHub Actions · Proxmox |
 | Blockchain | Solidity · ethers.js · Chainlink · Polygon |
 
 ### 📌 대표 프로젝트
