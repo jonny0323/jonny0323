@@ -22,7 +22,7 @@
 |---|---|---|
 | [**HelloMate**](https://github.com/jonny0323/HelloMate_Backend) | 외국인 유학생 커뮤니티·행정 지원 플랫폼. 학생/교직원 분리 인증, 공지 열람 추적, 익명 커뮤니티 · **U300 · I-RISE 선정** | Spring Boot 3 · JPA · PostgreSQL · JWT |
 | [**가격 예측 마켓 DApp**](https://github.com/jonny0323/BlockChainServer) | Chainlink 오라클로 정산하는 Polygon 메인넷 예측 마켓. Google 로그인만으로 지갑 자동 발급 | Express · Solidity · Chainlink · Lit Protocol |
-| [**토닥토닥**](https://github.com/jonny0323/Huss_todak_beckend) | 공감 챗봇 '포근이'. 구조화된 LLM 응답과 고정 위기 안내문으로 안전성 확보 | Express · Gemini API |
+| [**토닥토닥**](https://github.com/jonny0323/Huss_todak_backend) | 공감 챗봇 '포근이'. 구조화된 LLM 응답과 고정 위기 안내문으로 안전성 확보 | Express · Gemini API |
 
 ### 📜 Certificates
 SQLD · ADsP
